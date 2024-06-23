@@ -11,7 +11,7 @@
 
 - 💻 Web Developer & Quality Analyst 
 - 🔭 I’m currently working at [Inovando](https://github.com/inovando)
-- 💬 We can talk about **JavaScript, HTML, CSS, React, NextJs and Cypress**
+- 💬 We can talk about **Typescript, HTML, CSS, React, NextJs and Cypress**
 <br />
 <div>
 <p align="start">
