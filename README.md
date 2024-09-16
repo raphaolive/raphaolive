@@ -13,11 +13,6 @@
 - 🔭 I’m currently working at [Inovando](https://github.com/inovando)
 - 💬 We can talk about **Typescript, HTML, CSS, React, NextJs and Cypress**
 <br />
-<div>
-<p align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaolive&layout=compact&hide=html&title_color=bd93f9&text_color=ffffff&icon_color=50fa7b&bg_color=282a36&hide_border=true" alt="santospatrick" />
-</p>
-</div>
 <!--
 **raphaolive/raphaolive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
