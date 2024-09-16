@@ -10,7 +10,7 @@
 
 - 💻 Web Developer & Quality Analyst 
 - 🔭 I’m currently working at [Inovando](https://github.com/inovando)
-- 💬 We can talk about **Typescript, HTML, CSS, React, NextJs and Cypress**
+- 💬 We can talk about **Typescript, HTML, CSS, React, React Native, Vue, NextJs and Cypress**
 <br />
 <!--
 **raphaolive/raphaolive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
