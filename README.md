@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/raphael-oliveira-santos-18967b225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-- 💻 Web Developer & Quality Analyst 
+- 💻 Full-stack Developer
 - 🔭 I’m currently working at [Cortex Intelligence]([https://github.com/inovando](https://www.cortex-intelligence.com/))
 - 💬 We can talk about **Typescript, HTML, CSS, React, React Native, Vue, NextJs, Automated tests with Cypress and Java**
 <br />
